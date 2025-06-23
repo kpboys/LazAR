@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Documents\\Station\u00E6r Projekter\\LazAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5606A8C6-EA43-CDA2-C0EF-316C9B34824C}|Assembly-CSharp.csproj|c:\\users\\casper\\documents\\station\u00E6r projekter\\lazar\\assets\\scripts\\gameplayscripts\\lazerdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5606A8C6-EA43-CDA2-C0EF-316C9B34824C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplayscripts\\lazerdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LazerDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Documents\\Station\u00E6r Projekter\\LazAR\\Assets\\Scripts\\GameplayScripts\\LazerDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameplayScripts\\LazerDrawer.cs",
+              "ToolTip": "C:\\Users\\Casper\\Documents\\Station\u00E6r Projekter\\LazAR\\Assets\\Scripts\\GameplayScripts\\LazerDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameplayScripts\\LazerDrawer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAiwJMAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:47:51.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
