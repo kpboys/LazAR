@@ -1,5 +1,6 @@
 # LazAR
 Welcome to a small AR game where you guide the lazer through a level (making sure to hit the checkpoint along the way, and mind the black hole bending the lazer!) to win the game.
+
 ![LazAR_Picture](https://github.com/user-attachments/assets/51373012-b76d-47d2-923a-683176f4a03a)
 
 This was a school project made for my first semester of my Software Development bachelor. The game was made in Unity, using their XR Interaction Toolkit, for Android phones. It taught me just how much further AR has yet to go (It's so shaky).
